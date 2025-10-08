@@ -7,7 +7,7 @@ const USERS_DATA = [
   { id: '4', nom: 'David Petit', email: 'david.petit@email.com' },
   { id: '5', nom: 'Émilie Rousseau', email: 'emilie.rousseau@email.com' },
 ];
-
+//j'aime le chocolat chaud
 
 export default function HomeScreen() {
   return (
